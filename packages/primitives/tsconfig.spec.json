@@ -2,7 +2,6 @@
   "extends": "../../tsconfig.base.json",
   "compilerOptions": {
     "outDir": "../../dist/out-tsc/packages/primitives",
-    "module": "commonjs",
     "types": ["jest", "node"]
   },
   "include": [
