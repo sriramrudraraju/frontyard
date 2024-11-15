@@ -1,3 +1,13 @@
+## 0.3.1 (2024-11-15)
+
+### 🩹 Fixes
+
+- **primitives:** remove type ([18ec0c5](https://github.com/sriramrudraraju/frontyard/commit/18ec0c5))
+
+### ❤️  Thank You
+
+- sriramrudraraju
+
 ## 0.3.0 (2024-11-15)
 
 ### 🚀 Features
