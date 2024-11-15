@@ -1,3 +1,3 @@
-export const  primitives = () => {
+export const  primitives = (): string => {
   return 'primitives';
 }
