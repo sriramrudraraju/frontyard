@@ -1,3 +1,13 @@
+## 0.2.3 (2024-11-15)
+
+### 🩹 Fixes
+
+- **primitives:** add type ([a00197e](https://github.com/sriramrudraraju/frontyard/commit/a00197e))
+
+### ❤️  Thank You
+
+- sriramrudraraju
+
 ## 0.2.2 (2024-11-15)
 
 ### 🩹 Fixes
