@@ -1,3 +1,13 @@
+## 0.3.0 (2024-11-15)
+
+### 🚀 Features
+
+- **primitives:** package name changes ([54b480f](https://github.com/sriramrudraraju/frontyard/commit/54b480f))
+
+### ❤️  Thank You
+
+- sriramrudraraju
+
 ## 0.2.3 (2024-11-15)
 
 ### 🩹 Fixes
