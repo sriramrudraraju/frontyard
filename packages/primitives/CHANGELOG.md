@@ -1,3 +1,13 @@
+## 0.2.2 (2024-11-15)
+
+### 🩹 Fixes
+
+- **primitives:** remove type ([7426f7b](https://github.com/sriramrudraraju/frontyard/commit/7426f7b))
+
+### ❤️  Thank You
+
+- sriramrudraraju
+
 ## 0.2.1 (2024-11-15)
 
 ### 🩹 Fixes
