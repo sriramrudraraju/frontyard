@@ -16,6 +16,6 @@ node > 22
   - 'feat' -> minor
   - 'fix' -> patch
   - 'chore' -> no version change
-- Run `nx release --skip-publish` locally. This will create a commit with the version and changelog updates, then create a tag for the new version.
+- Run `npx nx release --skip-publish` locally. This will create a commit with the version and changelog updates, then create a tag for the new version.
 - Push the changes (including the new tag) to the remote repository with `git push` && `git push --tags`.
 - The publish workflow will automatically trigger and publish the packages to the npm registry.
